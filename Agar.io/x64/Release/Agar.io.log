@@ -1,0 +1,22 @@
+﻿  2017182007김우빈.cpp
+d:\agar.io\agar.io\2017182007김우빈.cpp(62): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(84): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(947): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(953): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(961): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(970): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(979): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(986): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(993): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(1000): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(1010): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(1013): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(1019): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(1022): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(1027): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(1033): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\2017182007김우빈.cpp(369): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  코드를 생성하고 있습니다.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Agar.io.vcxproj -> D:\Agar.io\x64\Release\Agar.io.exe

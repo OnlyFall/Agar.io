@@ -1,0 +1,14 @@
+﻿  Agar.cpp
+d:\agar.io\agar.io\agar.cpp(86): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(935): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(941): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(949): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(958): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(967): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(974): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(981): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(988): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(1015): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(1021): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\agar.io\agar.io\agar.cpp(360): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  Agar.io.vcxproj -> D:\Agar.io\Debug\Agar.io.exe
